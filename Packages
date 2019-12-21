@@ -1,0 +1,13 @@
+Package: com.mudi.mydock
+Version: 1
+Architecture: iphoneos-arm
+Maintainer: Mudi47 <malhajkhalil.0@gmail.com>
+Filename: /MyDock.deb
+Size: <deb in bytes>
+MD5sum: cac9f851a2130bb13b1532f0573a5283
+SHA1: 9aa498dd93098bfacbe5979af893c727cced7b89
+SHA256: cd37d87a40653b96f5718a41922f3cef3661d11e5ad7d6605281e370ca9bf427
+Section: Tweaks
+Description: <description>
+Author: Mudi47 <malhajkhalil.0@gmail.com>
+Name: MyDock
