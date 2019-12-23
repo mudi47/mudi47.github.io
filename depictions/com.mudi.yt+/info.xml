@@ -1,0 +1,26 @@
+<package>
+	<id>com.mudi.yt+</id>
+	<name>YT+</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<maxiOS>13.3</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate (>= 0.9.5000)</package>
+		<package>preferenceloader</package>
+	</dependencies>
+	<shortDescription>Location changer</shortDescription>
+	<descriptionlist>
+		<description>Supports iOS 10.0 - 13.3</description>
+		<description>tweak to hide dock background</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
