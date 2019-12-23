@@ -15,13 +15,16 @@
 	</dependencies>
 	<shortDescription>Location changer</shortDescription>
 	<descriptionlist>
-		<description>Supports iOS 7.0 - 13.3</description>
+		<description>Supports iOS 11.0 - 13.3</description>
 		<description>YT+ make Youtube better</description>
 		<description>What YT+ can do ? No ads when music is playing, HD quality without WiFi, no age restriction, no paid promotions (ad) and remove YouTube premium download button</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
+	<changes>
+		<version>1.0</version>
 		<change>Initial release</change>
-	</changelog>
+	</changes>
+</changelog>
 	<links></links>
 </package>
