@@ -1,0 +1,27 @@
+<package>
+	<id>com.mudi.yt+</id>
+	<name>YT+</name>
+	<version>1.0/version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+			<maxiOS>13.3</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate (>= 0.9.5000)</package>
+		<package>preferenceloader</package>
+	</dependencies>
+	<shortDescription>Location changer</shortDescription>
+	<descriptionlist>
+		<description>Supports iOS 7.0 - 13.3</description>
+		<description>YT+ make Youtube better.</description>
+		<description>What YT+ can do ? No ads when music is playing, HD quality without WiFi, no age restriction, no paid promotions (ad) and remove YouTube premium download button.</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
