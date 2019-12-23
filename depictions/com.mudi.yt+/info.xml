@@ -13,10 +13,9 @@
 		<package>mobilesubstrate (>= 0.9.5000)</package>
 		<package>preferenceloader</package>
 	</dependencies>
-	<shortDescription>Location changer</shortDescription>
+	<shortDescription>YT+ make Youtube better</shortDescription>
 	<descriptionlist>
 		<description>Supports iOS 11.0 - 13.3</description>
-		<description>YT+ make Youtube better</description>
 		<description>What YT+ can do ? No ads when music is playing, HD quality without WiFi, no age restriction, no paid promotions (ad) and remove YouTube premium download button</description>
 	</descriptionlist>
 	<screenshots></screenshots>
