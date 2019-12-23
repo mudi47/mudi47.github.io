@@ -1,7 +1,7 @@
 <package>
 	<id>com.mudi.yt+</id>
 	<name>YT+</name>
-	<version>1.0/version>
+	<version>1.0</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
