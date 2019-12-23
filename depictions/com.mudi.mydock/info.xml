@@ -1,7 +1,7 @@
 <package>
 	<id>com.mudi.mydock</id>
 	<name>MyDock</name>
-	<version>1.0</version>
+	<version>1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
@@ -16,7 +16,8 @@
 	<shortDescription>Location changer</shortDescription>
 	<descriptionlist>
 		<description>Supports iOS 7.0 - 13.3</description>
-		<description>Hide dock background</description>
+		<description>tweak to hide dock background</description>
+		<description>dock</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
