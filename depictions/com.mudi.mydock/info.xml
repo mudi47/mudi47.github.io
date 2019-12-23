@@ -1,7 +1,7 @@
 <package>
 	<id>com.mudi.mydock</id>
 	<name>MyDock</name>
-	<version>1</version>
+	<version>1.0</version>
 	<compatibility>
 		<firmware>
 			<miniOS>10.0</miniOS>
