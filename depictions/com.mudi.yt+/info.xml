@@ -1,6 +1,6 @@
 <package>
-	<id>com.mudi.yt+</id>
-	<name>YT+</name>
+	<id>com.mudi.mydock</id>
+	<name>MyDock</name>
 	<version>1.0</version>
 	<compatibility>
 		<firmware>
@@ -20,10 +20,7 @@
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
-	<changes>
-		<version>1.0</version>
 		<change>Initial release</change>
-	</changes>
 </changelog>
 	<links></links>
 </package>
