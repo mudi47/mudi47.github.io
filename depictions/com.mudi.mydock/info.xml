@@ -13,7 +13,7 @@
 		<package>mobilesubstrate (>= 0.9.5000)</package>
 		<package>preferenceloader</package>
 	</dependencies>
-	<shortDescription>Location changer</shortDescription>
+	<shortDescription>a tweak for dock</shortDescription>
 	<descriptionlist>
 		<description>Supports iOS 10.0 - 13.3</description>
 		<description>tweak to hide dock background</description>
