@@ -2,7 +2,7 @@ Package: com.mudi.mydock
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Mudi47 <malhajkhalil.0@gmail.com>
-Filename: /MyDock.deb
+Filename: ./deb/MyDock.deb
 Size: 3.022
 MD5sum: cac9f851a2130bb13b1532f0573a5283
 SHA1: 9aa498dd93098bfacbe5979af893c727cced7b89
@@ -12,16 +12,16 @@ Depiction: https://mudi47.github.io/depictions/?p=com.mudi.mydock
 Author: Mudi47 <malhajkhalil.0@gmail.com>
 Name: MyDock
 
-Package: com.mudi.ytplus
+Package: com.mudi.yt+
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Mudi47 <malhajkhalil.0@gmail.com>
-Filename: /YT+.deb
+Filename: ./deb/YT+.deb
 Size: 22.152 
 MD5sum: 4102e61f5b5c28907cd88de3051b03e4
 SHA1: ecbfc909c1c43db1932ece44fe11f3f8bd7cb905
 SHA256: 67c16e0974e9a35fb7c51dd514e02e1576a37eb89dec6e7f0b959056a2e251bf
 Section: Tweaks
-Depiction: https://mudi47.github.io/depictions/?p=com.mudi.ytplus
+Depiction:  https://mudi47.github.io/depictions/?p=com.mudi.ytplus
 Author: Mudi47 <malhajkhalil.0@gmail.com>
 Name: YT+ 
