@@ -1,10 +1,10 @@
 <package>
-	<id>com.mudi.ytplus</id>
-	<name>YT+</name>
+	<id>com.mudi.mydock</id>
+	<name>MyDock</name>
 	<version>1.0</version>
 	<compatibility>
 		<firmware>
-			<miniOS>11.0</miniOS>
+			<miniOS>10.0</miniOS>
 			<maxiOS>13.3</maxiOS>
 			<otherVersions>unsupported</otherVersions>
 		</firmware>
@@ -13,10 +13,10 @@
 		<package>mobilesubstrate (>= 0.9.5000)</package>
 		<package>preferenceloader</package>
 	</dependencies>
-	<shortDescription>YT+ make Youtube better.</shortDescription>
+	<shortDescription>a tweak for dock</shortDescription>
 	<descriptionlist>
-		<description>Supports iOS 11.0 - 13.3</description>
-		<description>What YT+ can do ? No ads when music is playing, HD quality without WiFi, no age restriction, playing music in background, no paid promotions (ad) and remove YouTube premium download button</description>
+		<description>Supports iOS 10.0 - 13.3</description>
+		<description>tweak to hide dock background</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
