@@ -16,7 +16,7 @@ Package: com.mudi.ytplus
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Mudi47 <malhajkhalil.0@gmail.com>
-Filename: ./deb/YT+.deb
+Filename: ./deb/YTplus.deb
 Size: 22152 
 MD5sum: 4102e61f5b5c28907cd88de3051b03e4
 SHA1: ecbfc909c1c43db1932ece44fe11f3f8bd7cb905
