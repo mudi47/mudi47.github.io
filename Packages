@@ -1,16 +1,17 @@
-Package: 
-Version: 
+Package: com.mudi.dockx
+
+Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Mudi47 <malhajkhalil.0@gmail.com>
 Filename: ./deb/
-Size: 
-MD5sum: 
-SHA1: 
-SHA256: 
+Size: 5483
+MD5sum: E45D42299B5BAEDDF9B0EA331E0B9C1F
+SHA1: B67614E4D1C0F073C22D133685B9D9577A9BC5FE
+SHA256: 18539E74EB4D76602034995F3A337C69B80AA73B1659F2C6BD15267EC1734A8F
 Section: Tweaks
 Depiction: 
 Author: Mudi47 <malhajkhalil.0@gmail.com>
-Name:
+Name: DockX
 
 Package: 
 Version: 
