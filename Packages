@@ -26,6 +26,7 @@ SHA1: b67614e4d1c0f073c22d133685b9d9577a9bc5fe
 SHA256: 18539e74eb4d76602034995f3a337c69b80aa73b1659f2c6bd15267ec1734a8f
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
+Depiction: https://mudi47.github.io/depictions/?p=com.mudi.dockx
 Author: Mudi47
 Installed-Size: 152
 Name: DockX
