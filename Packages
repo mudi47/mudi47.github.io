@@ -1,7 +1,7 @@
 Package: com.mudi.dockx
 Version: 1.1
 Architecture: iphoneos-arm
-Maintainer: Mudi47
+Maintainer: Mudi47 <malhajkhalil.0@gmail.com>
 Depends: mobilesubstrate, firmware(>=12.0), ws.hbang.common
 Filename: ./debs/com.mudi.dockx_1.1_iphoneos-arm.deb
 Size: 7724
@@ -11,23 +11,24 @@ SHA256: 44be9fa6f94830a20c067b262ce0b1d7c4bd0442a97ea2c5ab7e07cd07b6b172
 Section: Tweaks
 Description: tweak for dock
 Depiction: https://mudi47.github.io/depictions/?p=com.mudi.dockx
-Author: Mudi47
+Author: Mudi47 <malhajkhalil.0@gmail.com>
 Installed-Size: 152
 Name: DockX
 
 Package: com.mudi.ytplus
-Version: 1.0-+debug
+Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: Mudi
+Maintainer: Mudi47 <malhajkhalil.0@gmail.com>
 Depends: mobilesubstrate, firmware (>=12.0), ws.hbang.common
-Filename: ./debs/com.mudi.ytplus_0.0.1-1+debug_iphoneos-arm.deb
-Size: 13340
-MD5sum: bb3c4ea3e38c5f56d98f6896b86dd900
-SHA1: 27d21f40147a838f8efa98774abca2ac36a491e7
-SHA256: 38b438d9e9747acb8723ea2548c2348870aa3f3d46b56fcbfe1bc8894d0d5533
+Filename: ./debs/com.mudi.ytplus_1.0_iphoneos-arm.deb
+Size: 17854
+MD5sum: db6c65dda8fbc1e8410bc787115f8b90
+SHA1: 6d376724fbe0b537ed6bd2f0c802195a6d19ea0b
+SHA256: 697668f5e05ad8147206b30f1107bf742a8517d7f592c60ece7654b6ef422ff8
 Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: Mudi47
+Description: YTplus makes Youtube better
+Depiction: https://mudi47.github.io/depictions/?p=com.mudi.ytplus
+Author: Mudi47 <malhajkhalil.0@gmail.com>
 Installed-Size: 220
 Name: YTplus
 
