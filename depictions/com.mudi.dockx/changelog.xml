@@ -2,8 +2,6 @@
 	<changes>
 		<version>1.0</version>
 		<change>bug fixed</change>
-        <version>0.0.1-1+debug</version>
-        <change>Initial release</change>
 	</changes>
     <changes>
         <version>0.0.1-1+debug</version>
