@@ -78,7 +78,7 @@ header .btn{
 .btn-outline:focus,
 .btn-outline:active,
 .btn-outline.active {
-    color: white;
+    color: gold;
     background:#a3c1d5;
     border: solid 1.5px gold;
 }
