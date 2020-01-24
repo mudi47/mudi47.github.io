@@ -12,7 +12,7 @@
 	<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>
-	<shortDescription>Dock tweak</shortDescription>
+	<shortDescription>tweak for dock</shortDescription>
 	<descriptionlist>
 		<description>tweak to get IPhone X dock for older devices</description>
 	</descriptionlist>
