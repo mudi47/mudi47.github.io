@@ -1,5 +1,5 @@
 Package: com.mudi.ytplus
-Version: 1.0
+Version: 1.0-+debug
 Architecture: iphoneos-arm
 Maintainer: Mudi
 Depends: mobilesubstrate, firmware (>=12.0), ws.hbang.common
@@ -10,13 +10,13 @@ SHA1: 27d21f40147a838f8efa98774abca2ac36a491e7
 SHA256: 38b438d9e9747acb8723ea2548c2348870aa3f3d46b56fcbfe1bc8894d0d5533
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
-Depicion: https://mudi47.github.io/depictions/?p=com.mudi.ytplus
+Depiction: 
 Author: Mudi47
 Installed-Size: 220
 Name: YTplus
 
 Package: com.mudi.dockx
-Version: 1.0
+Version: 0.0.1-1+debug
 Architecture: iphoneos-arm
 Maintainer: Mudi47
 Depends: mobilesubstrate, firmware(>=12.0), ws.hbang.common
