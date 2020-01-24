@@ -1,6 +1,8 @@
 body {
     font-family: 'Karla',  sans-serif;
     overflow-x: hidden;
+    background: yellow;
+    color: #242424;
 }
 
 header {
