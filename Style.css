@@ -69,7 +69,7 @@ header .btn{
     color:#a3c1d5;
     font-size: 1.2em;
     border: solid 1.5px #a3c1d5;
-    background: transparent;
+    background: black;
     transition: all 0.3s ease-in-out;
     margin-top: 15px;
 }
