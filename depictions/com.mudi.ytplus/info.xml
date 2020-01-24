@@ -13,9 +13,14 @@
 		<package>mobilesubstrate (>= 0.9.5000)</package>
 		<package>preferenceloader</package>
 	</dependencies>
-	<shortDescription>YouTube Tweak</shortDescription>
+	<shortDescription>YTplus makes YouTube better</shortDescription>
 	<descriptionlist>
-		<description>Test</description>
+		<description>no ads in videos</description>
+        <description>playing in background</description>
+        <description>ipad style</description>
+        <description>no age check</description>
+        <description>remove download button</description>
+        <description>HD videos without WiFi</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
