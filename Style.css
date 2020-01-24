@@ -29,6 +29,16 @@ header .repo {
     font-size: 2em;
 }
 
+header .footertext {
+    position: fixed;
+  	left: 0;
+  	bottom: 0;
+  	width: 100%;
+  	background-color: black;
+  	color: white;
+  	text-align: center;
+}
+
 @media (min-width: 768px) {
     header img {
         max-width: 30%; left: 35%;
