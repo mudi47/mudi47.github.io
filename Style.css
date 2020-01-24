@@ -29,7 +29,7 @@ header .repo {
     font-size: 2em;
 }
 
-header .footertext {
+header .footer {
     position: fixed;
   	left: 0;
   	bottom: 0;
@@ -94,7 +94,7 @@ header .btn{
 
 footer{
     padding-top: 50px;
-    background-color: none;
+    background-color: yellow;
     height:80px;
 }
 footer .footer-above {
