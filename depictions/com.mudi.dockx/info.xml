@@ -13,9 +13,8 @@
 		<package>mobilesubstrate (>= 0.9.5000)</package>
 		<package>preferenceloader</package>
 	</dependencies>
-	<shortDescription>a tweak for dock</shortDescription>
+	<shortDescription>Dock tweak</shortDescription>
 	<descriptionlist>
-		<description>Supports iOS 10.0 - 13.3</description>
 		<description>tweak to get iphone X dock for older devices</description>
 	</descriptionlist>
 	<screenshots></screenshots>
