@@ -26,6 +26,7 @@ SHA1: 41e64927fb7c4d32cb2794e9d7965a2f54c75c95
 SHA256: 0ec8165401b768a08a17cb4ffe598e8d8f4838922872eea3b5665efd1de7c6d3
 Section: Tweaks
 Description: YTplus makes YouTube better
+Depiction: https://mudi47.github.io/depictions/?p=com.mudi.ytplus
 Author: Mudi47 <malhajkhalil.0@gmail.com>
 Installed-Size: 220
 Name: YTplus
