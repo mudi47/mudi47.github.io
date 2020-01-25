@@ -1,0 +1,29 @@
+<package>
+	<id>com.mudi.ytplus</id>
+	<name>YTplus</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.0</miniOS>
+			<maxiOS>13.3</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate (>= 0.9.5000)</package>
+	</dependencies>
+	<shortDescription>YTplus makes YouTube better</shortDescription>
+	<descriptionlist>
+		<description>no ads in videos</description>
+        <description>playing in background</description>
+        <description>ipad style</description>
+        <description>no age check</description>
+        <description>remove download button</description>
+        <description>HD videos without WiFi</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
