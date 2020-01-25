@@ -1,7 +1,7 @@
 Package: com.mudi.dockx
 Version: 1.1
 Architecture: iphoneos-arm
-Maintainer: Mudi47
+Maintainer: Mudi47 <malhajkhalil.0@gmail.com>
 Depends: mobilesubstrate, firmware(>=12.0), ws.hbang.common
 Filename: ./debs/com.mudi.dockx_1.1_iphoneos-arm.deb
 Size: 7724
@@ -11,7 +11,7 @@ SHA256: 44be9fa6f94830a20c067b262ce0b1d7c4bd0442a97ea2c5ab7e07cd07b6b172
 Section: Tweaks
 Description: a tweak for dock
 Depiction: https://mudi47.github.io/depictions/?p=com.mudi.dockx
-Author: Mudi47
+Author: Mudi47 <malhajkhalil.0@gmail.com>
 Installed-Size: 152
 Name: DockX
 
