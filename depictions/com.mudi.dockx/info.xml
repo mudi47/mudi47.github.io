@@ -16,7 +16,9 @@
 	<descriptionlist>
 		<description>tweak to get IPhone X dock for older devices</description>
 	</descriptionlist>
-	<screenshots>cydia</screenshots>
+	<screenshots>
+    <screenhot>dockx</screenhot>
+    </screenshots>
 	<changelog>
 		<change>bug fixed</change>
 </changelog>
