@@ -17,7 +17,10 @@
 		<description>tweak to get IPhone X dock for older devices</description>
 	</descriptionlist>
 	<screenshots>
-    <screenshot>dockx.png</screenshot>
+    <screenshot>
+        <description></description>
+        <image>dockx.png</image>
+    </screenshot>
     </screenshots>
 	<changelog>
 		<change>bug fixed</change>
