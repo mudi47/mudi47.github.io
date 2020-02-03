@@ -23,7 +23,11 @@
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
-		<change>Initial release</change>
+		<change>added remove paid Content feature</change>
+        <change>added remove Premium Card feature</change>
+        <change>added tweak banner in Settings</change>
+        <change>new tweak logo</change>
+        <change>bug fixes</change>
 	</changelog>
 	<links></links>
 </package>
