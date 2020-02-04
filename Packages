@@ -21,10 +21,10 @@ Architecture: iphoneos-arm
 Maintainer: Mudi47 <malhajkhalil.0@gmail.com>
 Depends: mobilesubstrate, firmware (>=12.0), ws.hbang.common
 Filename: ./debs/com.mudi.ytplus_1.2_iphoneos-arm.deb
-Size: 72028
-MD5sum: 0a802e265f73370ff6dff59180e2b0a2
-SHA1: 83d3c15d52be72044d5428b864f014413e8bfc17
-SHA256: 49d7e266b381ac3eca6f77e7d634473448158612add727bdd71cde1ab285c5db
+Size: 72030
+MD5sum: 78fb97966afb9fbbbda26982073f8026
+SHA1: 7fa300bc2e114578d3e8caadf2444fa136e2064d
+SHA256: 5a43f23f320fdcc357ce9c95f9409951a13c703390e9d00fa0f5798b59fa6556
 Section: Tweaks
 Description: A better YouTube tweak!
 Depiction: https://mudi47.github.io/depictions/?p=com.mudi.ytplus
