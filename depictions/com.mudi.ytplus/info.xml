@@ -21,7 +21,12 @@
         <description>remove download button</description>
         <description>HD videos without WiFi</description>
 	</descriptionlist>
-	<screenshots></screenshots>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image>YTplus.jpg</image>
+		</screenshot>
+    </screenshots>
 	<changelog>
 		<change>added arm64e A12 support</change>
 	</changelog>
