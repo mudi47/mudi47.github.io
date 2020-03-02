@@ -32,3 +32,20 @@ Author: Mudi47 <malhajkhalil.0@gmail.com>
 Installed-Size: 460
 Name: YTplus
 
+Package: com.mudi.everak
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Mudi47 <malhajkhalil.0@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.mudi.everak_1.0_iphoneos-arm.deb
+Size: 5008
+MD5sum: 61673e0efb3728db8e155f1cc90a9b50
+SHA1: 22593e17981223ce3ffc23046cd3795eebba8ec3
+SHA256: 27d3b0acb1b78923cb12672b51c59b475490390c3f986ed20f5e7318a5700eff
+Section: Tweaks
+Description: Hack for Ever app
+Depiction: https://mudi47.github.io/depictions/?p=com.mudi.everak
+Author: Mudi47 <malhajkhalil.0@gmail.com>
+Installed-Size: 104
+Name: EverAK
+
