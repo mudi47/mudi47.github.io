@@ -16,20 +16,20 @@ Installed-Size: 124
 Name: DockX
 
 Package: com.mudi.ytplus
-Version: 1.2
+Version: 2.0
 Architecture: iphoneos-arm
 Maintainer: Mudi47 <malhajkhalil.0@gmail.com>
-Depends: mobilesubstrate, firmware (>=12.0), ws.hbang.common
-Filename: ./debs/com.mudi.ytplus_1.2_iphoneos-arm.deb
-Size: 72030
-MD5sum: 78fb97966afb9fbbbda26982073f8026
-SHA1: 7fa300bc2e114578d3e8caadf2444fa136e2064d
-SHA256: 5a43f23f320fdcc357ce9c95f9409951a13c703390e9d00fa0f5798b59fa6556
+Depends: mobilesubstrate, firmware (>=12.0), ws.hbang.common, co.azozzalfiras.azflibrary
+Filename: ./debs/com.mudi.ytplus_2.0_iphoneos-arm.deb
+Size: 157128
+MD5sum: 7d436fb90cdacf18e6611349d12e2158
+SHA1: 8acf6702b418ac53ca238f819014018f1d06f2f1
+SHA256: b2d786bbb79491b25410688d287de7147bda23ba0c5d963c9cec93146ebe07a6
 Section: Tweaks
 Description: A better YouTube tweak!
 Depiction: https://mudi47.github.io/depictions/?p=com.mudi.ytplus
 Author: Mudi47 <malhajkhalil.0@gmail.com>
-Installed-Size: 460
+Installed-Size: 620
 Name: YTplus
 
 Package: com.mudi.everak
