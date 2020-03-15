@@ -14,6 +14,7 @@
 	</dependencies>
 	<shortDescription>YTplus makes YouTube better</shortDescription>
 	<descriptionlist>
+        <description>https://silzee.com/cydia/YTplus/</description>
 		<description>DOWNLOAD VIDEOS/AUDIOS FROM YOUTUBE❤</description>
         <description>no ads in videos</description>
         <description>playing in background</description>
@@ -39,5 +40,5 @@
         <change>added Remove Premium Card feature</change>
         <change>added Remove paid Content feature</change>
 	</changelog>
-	<links>https://silzee.com/cydia/YTplus/</links>
+	<links></links>
 </package>
