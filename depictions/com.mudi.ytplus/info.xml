@@ -40,11 +40,7 @@
         <change>added Remove paid Content feature</change>
 	</changelog>
 	<links>
-    <links>https://silzee.com/cydia/YTplus</links>
+    <a href="https://silzee.com/cydia/YTplus"></a>
     </links>
-    <roman xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="urn:isbn:0688069444">
-   <titel>The Wonderful Wizard of Oz</titel>
-   <autor>L. Frank Baum</autor>
-   <jahr>1900</jahr>
-</roman>
+ 
 </package>
