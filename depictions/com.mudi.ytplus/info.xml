@@ -40,7 +40,7 @@
         <change>added Remove paid Content feature</change>
 	</changelog>
 	<links>
-        <custom>https://silzee.com/cydia/YTplus</custom>
+        <link>https://silzee.com/cydia/YTplus</link>
     </links>
  
 </package>
