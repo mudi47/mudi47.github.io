@@ -39,8 +39,7 @@
         <change>added Remove Premium Card feature</change>
         <change>added Remove paid Content feature</change>
 	</changelog>
-	<links>
-        <link>https://silzee.com/cydia/YTplus</link>
+	<links> href="https://silzee.com/cydia/YTplus"
     </links>
  
 </package>
