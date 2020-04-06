@@ -14,7 +14,8 @@
 	</dependencies>
 	<shortDescription>YTplus makes YouTube better</shortDescription>
 	<descriptionlist>
-		<description>DOWNLOAD VIDEOS/AUDIOS FROM YOUTUBE❤</description>
+		<description>DOWNLOAD VIDEOS/AUDIOS FROM YOUTUBE❤
+		https://silzee.com/cydia/YTplus</description>
         <description>no ads in videos</description>
         <description>playing in background</description>
         <description>ipad style</description>
@@ -41,7 +42,7 @@
 				<change>Remove Teaser-Button in Video</change>
 				<change>Remove Volume Slider</change>
 	</changelog>
-	<footerlinks> "https://silzee.com/cydia/YTplus"
-	</footerlinks>
+	<links> ""
+	</links>
 
 </package>
