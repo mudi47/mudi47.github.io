@@ -41,7 +41,7 @@
 				<change>Remove Teaser-Button in Video</change>
 				<change>Remove Volume Slider</change>
 	</changelog>
-	<link> "https://silzee.com/cydia/YTplus"
-    </link>
+	<footerlinks> "https://silzee.com/cydia/YTplus"
+	</footerlinks>
 
 </package>
