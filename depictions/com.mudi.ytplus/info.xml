@@ -20,7 +20,7 @@
         <description>ipad style</description>
         <description>no age check</description>
         <description>remove download button</description>
-        <description>HD videos without WiFi</description>     
+        <description>HD videos without WiFi</description>
         <description>Remove Premium Card feature</description>
         <description>Remove paid Content feature</description>
 	</descriptionlist>
@@ -35,11 +35,13 @@
 		</screenshot>
     </screenshots>
 	<changelog>
-		<change>added download Video/Audio feature</change>
-        <change>added Remove Premium Card feature</change>
-        <change>added Remove paid Content feature</change>
+		<change>Hide Statusbar in YouTube</change>
+        <change>Show Statusbar in YouTube-Player</change>
+        <change>Hide Storys</change>
+				<change>Remove Teaser-Button in Video</change>
+				<change>Remove Volume Slider</change>
 	</changelog>
 	<links> "https://silzee.com/cydia/YTplus"
     </links>
- 
+
 </package>

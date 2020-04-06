@@ -1,4 +1,12 @@
 <changelog><changes>
+    <version>2.1</version>
+    <change>Hide Statusbar in YouTube</change>
+        <change>Show Statusbar in YouTube-Player</change>
+        <change>Hide Storys</change>
+        <change>Remove Teaser-Button in Video</change>
+        <change>Remove Volume Slider</change>
+        </changes>
+  <changes>
     <version>2.0</version>
         <change>added download Video/Audio feature</change>
         <change>added Remove Premium Card feature</change>
