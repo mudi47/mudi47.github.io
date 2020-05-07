@@ -48,3 +48,20 @@ Depiction: https://mudi47.github.io/depictions/?p=com.mudi.everak
 Author: Mudi47 <malhajkhalil.0@gmail.com>
 Installed-Size: 104
 Name: EverAK
+
+Package: com.mudi.copytextonscreenak
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Mudi47 <malhajkhalil.0@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.mudi.copytextonscreenak_1.0_iphoneos-arm.deb
+Size: 3306
+MD5sum: 1b43544c2cf608bb65a4b62b1c858968
+SHA1: 616ed5b81ed2cb43cef4debbcfddedb3ec42bfb2
+SHA256: b7ba82e3018d40a4fa4ecabe56bed9f7e57f5e1a22a3ac1e817db4ff18ba0f3b
+Section: Tweaks
+Description: Premium for CoyTextOnScreen
+Depiction: https://mudi47.github.io/depictions/?p=copytextonscreenak
+Author: Mudi47 <malhajkhalil.0@gmail.com>
+Installed-Size: 56
+Name: CopyTextOnScreenAK

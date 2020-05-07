@@ -1,6 +1,6 @@
 <package>
-	<id>com.mudi.everak</id>
-	<name>EverAK</name>
+	<id>com.mudi.copytextonscreenak</id>
+	<name>CopyTextOnScreenAK</name>
 	<version>1.0</version>
 	<compatibility>
 		<firmware>
@@ -10,14 +10,14 @@
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>mobilesubstrate (>= 0.9.5000)</package>
+		<package>mobilesubstrate</package>
 	</dependencies>
-	<shortDescription>get premium</shortDescription>
+	<shortDescription>Premium for CopyTextOnScreen app</shortDescription>
 	<descriptionlist>
-		<description>get premium in Ever app</description>
+		<description>Premium for CopyTextOnScreen app</description>
 	</descriptionlist>
 	<changelog>
 		<change>Initial release</change>
-	</changelog>
+</changelog>
 	<links></links>
 </package>
