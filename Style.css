@@ -66,10 +66,10 @@ header .btn{
 }
 
 .btn-outline {
-    color:#000000;
+    color:#a3c1d5;
     font-size: 1.2em;
     border: solid 1.5px #a3c1d5;
-    background: white;
+    background: black;
     transition: all 0.3s ease-in-out;
     margin-top: 15px;
 }
@@ -150,73 +150,4 @@ footer .footer-above {
     text-align: center;
     font-size: 20px;
     line-height: 45px;
-}
-
-
-
-
-.dropdown{
-  display:inline-block;
-  position:relative;
-}
-
-.dropdown button{
-  border:none;
-  padding:8px 16px;
-  background-color:deepPink;
-  color:white;
-  transition:.3s;
-  cursor:pointer;
-}
-
-.dropdown:hover button{
-  background-color:hotPink;
-}
-.dropdown-outline {
-    color:#000000;
-    font-size: 1.2em;
-    border: solid 1.5px #a3c1d5;
-    background: white;
-    transition: all 0.3s ease-in-out;
-    margin-top: 50px;
-}
-
-
-
-.dropdown div{
-  background-color:#fff;
-  box-shadow:0 4px 8px rgba(0,0,0,0.2);
-  z-index:1;
-  visibility:hidden;
-  position:absolute;
-  min-width:100%;
-  opacity:0;
-  transition:.3s;
-}
-
-.dropdown:hover div{
-  visibility:visible;
-  opacity:1;
-}
-
-.dropdown div a{
-  display:block;
-  text-decoration:none;
-  padding:8px;
-  color:#000;
-  transition:.1s;
-  white-space:nowrap;
-}
-
-.dropdown div a:hover{
-  background-color:black;
-  color:#fff;
-}
-.dropdown-outline:hover,
-.dropdown-outline:focus,
-.dropdown-outline:active,
-.dropdown-outline.active {
-    color: white;
-    background:#a3c1d5;
-    border: solid 1.5px white;
 }
