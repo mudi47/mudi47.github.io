@@ -15,6 +15,25 @@ Author: Mudi47 <malhajkhalil.0@gmail.com>
 Installed-Size: 128
 Name: DockX
 
+Package: com.mudi.batteryinfo
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Mudi47 <malhajkhalil.0@gmail.com>
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, com.rpetrich.rocketbootstrap, com.spark.libsparkcolourpicker, co.azozzalfiras.azflibrary
+Filename: ./debs/com.mudi.batteryinfo_1.0_iphoneos-arm.deb
+Size: 255706
+MD5sum: 1cb077a5bd1bdd0d7b66d46004c8bbbc
+SHA1: efde60102c3bc2b57228501d19952e955bf86fbf
+SHA256: 6181761b2438ff2e1bad8eb23d6dc4fe5632f5e462c4842138d9a025375a40c5
+Section: Tweaks
+Description: Show your device and connected devices batteries.
+Depiction: https://mudi47.github.io/depictions/?p=com.mudi.batteryinfo
+Author: Mudi47 <malhajkhalil.0@gmail.com>
+Installed-Size: 672
+Name: BatteryInfo
+Priority: optional
+dev: Mudi47
+
 Package: com.mudi.ytplus
 Version: 2.1
 Architecture: iphoneos-arm
