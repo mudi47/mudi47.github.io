@@ -24,17 +24,9 @@
         <description>Remove Premium Card feature</description>
         <description>Remove paid Content feature</description>
 	</descriptionlist>
-	<screenshots>
-							<screenshot>
-			<description></description>
-            <image>YTplus.jpeg</image>
-            </screenshot>
-            <screenshot>
-			<description></description>
-            <image>YTpluss.jpeg</image>
-		</screenshot>
-    </screenshots>
 	<changelog>
+		<change>New Tweak UI and Written from scratch</change>
+		<change>Supported Languages Arabic German Turkish French</change>
 		<change>Added Square Miniplayer</change>
         <change>Added Nice Rounded bar</change>
         <change>Added Channel Watermark</change>
@@ -52,7 +44,7 @@
 				<change>Added Remove Ads</change>
 				<change>Added Auto Select Audio</change>
 				<change>Added Enable Double Seek</change>
-				<change>Added Enable Audio & Video Button</change>
+				<change>Added Enable Audio and Video Button</change>
 	</changelog>
 	<links> ""
 	</links>
