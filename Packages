@@ -34,21 +34,39 @@ Name: BatteryInfo
 Priority: optional
 dev: Mudi47
 
+Package: co.azozzalfiras.azflibrary
+Version: 2.6
+Architecture: iphoneos-arm
+Maintainer: Azozz ALFiras
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/co.azozzalfiras.azflibrary_2.6_iphoneos-arm.deb
+Size: 419946
+MD5sum: 76915e69d599ed9b892f7d209627df0e
+SHA1: e3218828ebdc4ef404d8f9666744de07f700f23f
+SHA256: 5f9f4d9599add285a1d07dfc2ad7361e91e053234a49e284cfdc050a0d0dde94
+Section: Tweaks
+Description: Support library to allow tweaks to communicate with their services from sandboxed app processes!
+https://mudi47.github.io/depictions/?p=co.azozzalfiras.azflibrary
+Author: Azozz ALFiras
+Installed-Size: 2224
+Name: azfLibraray
+
+Name: YTplus
 Package: com.mudi.ytplus
-Version: 2.1
+Version: 2.5
 Architecture: iphoneos-arm
 Maintainer: Mudi47 <malhajkhalil.0@gmail.com>
 Depends: mobilesubstrate, firmware (>=12.0), ws.hbang.common, co.azozzalfiras.azflibrary
-Filename: ./debs/com.mudi.ytplus_2.1_iphoneos-arm.deb
-Size: 159958
-MD5sum: b38a8f1449e52f037f990779b77847e7
-SHA1: d934894c88def596cb3800e979d9ad8c3d412711
-SHA256: 58e862ecf54ff36bdeb7056d3e9edfa63464c0df01536ef984af5a5eba7f6176
+Filename: ./debs/com.mudi.ytplus_2.5_iphoneos-arm.deb
+Size: 311478
+MD5sum: 5a6d9985ee309bbc78f380d0e131922a
+SHA1: 412e77882c9c87f509c30a02b571d5e6b4556d63
+SHA256: 36a827951d60586f5912ec2d090718f0dc82c2aacb9401a9d40942dab9fcee54
 Section: Tweaks
 Description: A better YouTube tweak!
 Depiction: https://mudi47.github.io/depictions/?p=com.mudi.ytplus
 Author: Mudi47 <malhajkhalil.0@gmail.com>
-Installed-Size: 620
+Installed-Size: 964
 Name: YTplus
 
 Package: com.mudi.everak

@@ -1,4 +1,28 @@
-<changelog><changes>
+<changelog>
+  <changes>
+    <version>2.5</version>
+    <change>New Tweak UI & Written from scratch</change>
+    <change>Supported Languages: Arabic, German, Turkish, French</change>
+        <change>Added Nice Rounded bar</change>
+        <change>Added Channel Watermark</change>
+				<change>Added Like etcetera under Video</change>
+				<change>Added Hide Endscreen Suggested Videos</change>
+				<change>Added Disable 10 Sec. Seek</change>
+				<change>Added Hide Start Tab</change>
+				<change>Added Hide Explore Tab</change>
+				<change>Added Hide Subscriptions Tab</change>
+			  <change>Added Hide Inbox Tab</change>
+				<change>Added Hide Library Tab</change>
+				<change>Added Hide DLEasy</change>
+				<change>-----------------------</change>
+				<change>Added Support for YouTube Music</change>
+				<change>Added Play In background </change>
+				<change>Added Remove Ads</change>
+				<change>Added Auto Select Audio</change>
+				<change>Added Enable Double Seek</change>
+				<change>Added Enable Audio & Video Button</change>
+        </changes>
+  <changes>
     <version>2.1</version>
     <change>Hide Statusbar in YouTube</change>
         <change>Show Statusbar in YouTube-Player</change>
