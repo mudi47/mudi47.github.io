@@ -87,8 +87,6 @@ header .btn{
     background:#a3c1d5;
     border: solid 1.5px white;
 }
-
-
 footer{
     padding-top: 50px;
     background-color: none;
@@ -136,15 +134,7 @@ header .ytplus{
     background:#a3c1d5;
     border: solid 1.5px white;
 }
-footer{
-    padding-top: 50px;
-    background-color: none;
-    height:80px;
-}
-footer .footer-above {
-    padding-top: 30px;
-    background-color: red;
-}
+
 .ytplus-social {
     display: inline-block;
     padding-top:2px;
