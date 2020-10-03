@@ -44,7 +44,7 @@ Size: 419946
 MD5sum: 76915e69d599ed9b892f7d209627df0e
 SHA1: e3218828ebdc4ef404d8f9666744de07f700f23f
 SHA256: 5f9f4d9599add285a1d07dfc2ad7361e91e053234a49e284cfdc050a0d0dde94
-Section: Tweaks
+Section: Library
 Description: Support library to allow tweaks to communicate with their services from sandboxed app processes!
 https://mudi47.github.io/depictions/?p=co.azozzalfiras.azflibrary
 Author: Azozz ALFiras
@@ -53,20 +53,20 @@ Name: azfLibraray
 
 Name: YTplus
 Package: com.mudi.ytplus
-Version: 2.5
+Version: 2.5.1
 Architecture: iphoneos-arm
 Maintainer: Mudi47 <malhajkhalil.0@gmail.com>
 Depends: mobilesubstrate, firmware (>=12.0), ws.hbang.common, co.azozzalfiras.azflibrary
-Filename: ./debs/com.mudi.ytplus_2.5_iphoneos-arm.deb
-Size: 311478
-MD5sum: 5a6d9985ee309bbc78f380d0e131922a
-SHA1: 412e77882c9c87f509c30a02b571d5e6b4556d63
-SHA256: 36a827951d60586f5912ec2d090718f0dc82c2aacb9401a9d40942dab9fcee54
+Filename: ./debs/com.mudi.ytplus_2.5.1_iphoneos-arm.deb
+Size: 313670
+MD5sum: 76dc6a3baf4bef54bb98b7fa75a59d6f
+SHA1: 273c200beebd7abe5f46014ddf044239797b88a7
+SHA256: c50c8ae6d0ce3d3be368fb18721686092e414d56f702aa3d9b2c5d712df8fb43
 Section: Tweaks
 Description: A better YouTube tweak!
 Depiction: https://mudi47.github.io/depictions/?p=com.mudi.ytplus
 Author: Mudi47 <malhajkhalil.0@gmail.com>
-Installed-Size: 964
+Installed-Size: 968
 Name: YTplus
 
 Package: com.mudi.everak

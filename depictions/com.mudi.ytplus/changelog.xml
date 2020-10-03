@@ -1,5 +1,9 @@
 <changelog>
   <changes>
+    <version>2.5.1</version>
+    <change>bugs fixed</change>
+        </changes>
+  <changes>
     <version>2.5</version>
     <change>New Tweak UI and Written from scratch</change>
     <change>Supported Languages: Arabic, German, Turkish, French</change>
