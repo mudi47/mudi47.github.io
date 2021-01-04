@@ -51,21 +51,23 @@ Author: Azozz ALFiras
 Installed-Size: 2224
 Name: azfLibraray
 
+
+
 Package: com.mudi.ytplus
-Version: 2.5.2
+Version: 3.0
 Architecture: iphoneos-arm
 Maintainer: Mudi47 <malhajkhalil.0@gmail.com>
 Depends: mobilesubstrate, firmware (>=12.0), ws.hbang.common, co.azozzalfiras.azflibrary
-Filename: ./debs/com.mudi.ytplus_2.5.2_iphoneos-arm.deb
-Size: 312374
-MD5sum: 13859de623f1bf97d167ebf387346a58
-SHA1: 9f5ade8ca878e75d072c1a558b2c10515b6c2b88
-SHA256: bf942db4908a6f9b46f1458880007d6f267882d4d00348b5df6fa2a02ca1e521
+Filename: ./debs/com.mudi.ytplus_3.0_iphoneos-arm.deb
+Size: 312182
+MD5sum: c364302339f3cb6aab9b2df7786caa8e
+SHA1: a267349f9ea6ba41eb1f0a9b835610b8a8d462af
+SHA256: eab02b84a50c9b30a501631e03a15a0f078a3b27891a77c2aa48f4a3f5a97d7b
 Section: Tweaks
 Description: A better YouTube tweak!
 Depiction: https://mudi47.github.io/depictions/?p=com.mudi.ytplus
 Author: Mudi47 <malhajkhalil.0@gmail.com>
-Installed-Size: 964
+Installed-Size: 960
 Name: YTplus
 
 

@@ -1,11 +1,11 @@
 <package>
 	<id>com.mudi.ytplus</id>
 	<name>YTplus</name>
-	<version>2.5.2</version>
+	<version>3.0</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
-			<maxiOS>14.0</maxiOS>
+			<maxiOS>14.4</maxiOS>
 			<otherVersions>unsupported</otherVersions>
 		</firmware>
 	</compatibility>
@@ -25,7 +25,10 @@
         <description>Remove paid Content feature</description>
 	</descriptionlist>
 	<changelog>
-		<change>bugs fixed</change>
+		<change>Fixed black screen when you starting a video</change>
+		<change>Fixed Download button</change>
+		<change>Added hide kinds Popup Banner</change>
+		<change>Bug fixes and performance improvements</change>
 	</changelog>
 	<screenshots>
 		<screenshot>

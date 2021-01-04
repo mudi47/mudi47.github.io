@@ -1,5 +1,13 @@
 <changelog>
   <changes>
+    <version>3.0</version>
+    <change>Fixed black screen when you starting a video</change>
+    <change>Fixed Download button</change>
+    <change>Added hide kinds Popup Banner</change>
+    <change>Bug fixes and performance improvements</change>
+        </changes>
+
+  <changes>
     <version>2.5.2</version>
     <change>bugs fixed</change>
         </changes>
