@@ -25,11 +25,10 @@
         <description>Remove paid Content feature</description>
 	</descriptionlist>
 	<changelog>
-		<change>
-						-Support for Ios 14
-						-Support for Substitute
-						-Support for latest version of YouTube app
-						-Added my Backup account in YTplus prefs</change>
+		<change>Support for Ios 14</change>
+    <change>Support for Substitute</change>
+    <change>Support for latest version of YouTube app</change>
+    <change>Added my Backup account in YTplus prefs</change>
 	</changelog>
 	<screenshots>
 		<screenshot>
