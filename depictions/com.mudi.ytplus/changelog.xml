@@ -1,5 +1,12 @@
 <changelog>
   <changes>
+    <version>3.1</version>
+    <change>-Support for Ios 14
+            -Support for Substitute
+            -Support for latest version of YouTube app
+            -Added my Backup account in YTplus prefs</change>
+  </changes>
+  <changes>
     <version>3.0</version>
     <change>Fixed black screen when you starting a video</change>
     <change>Fixed Download button</change>
