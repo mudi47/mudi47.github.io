@@ -89,15 +89,6 @@ body .btn{
     background:#a3c1d5;
     border: solid 1.5px white;
 }
-footer{
-    padding-top: 50px;
-    background-color: none;
-    height:80px;
-}
-footer .footer-above {
-    padding-top: 30px;
-    background-color: red;
-}
 
 
 body{
@@ -117,6 +108,15 @@ body{
     100%{
         background-position: 0 50%;
     }
+}
+footer{
+    padding-top: 50px;
+    background-color: none;
+    height:80px;
+}
+footer .footer-above {
+    padding-top: 30px;
+    background-color: red;
 }
 
 
