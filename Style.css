@@ -109,10 +109,11 @@ body .btn{
 
 
 
-footer{
+footer .update{
     padding-top: 50px;
     background-color: none;
     height:80px;
+    text-align: center;
 }
 footer .footer-above {
     padding-top: 30px;
