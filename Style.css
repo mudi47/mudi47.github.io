@@ -1,17 +1,17 @@
-body {
+header {
     font-family: 'Karla',  sans-serif;
     overflow-x: hidden;
-    background: lightskyblue;
+
     color: #242424;
 }
 
-header {
+body {
     text-align: center;
     background: none;
     color: #242424;
 }
 
-header .intromsg {
+body .intromsg {
     padding-top: 30px;
     padding-bottom: 20px;
 }
@@ -21,43 +21,45 @@ header .intromsg {
   margin-left: auto;
   margin-right: auto;
 }
-header img {
+body img {
     display: block;
     margin: 0 auto 20px;
     max-width: 40%; left: 30%;
     margin-top: 6%;
 }
 
-header .repo {
+body .repo {
     display: block;
     padding-top:10px;
+
     font-family: "Fredoka One", sans-serif;
     text-transform: uppercase;
     font-size: 2em;
 }
 
+
 @media (min-width: 768px) {
-    header img {
+    body img {
         max-width: 30%; left: 35%;
         margin-top: 6%;
     }
-    header .intromsg {
+    body .intromsg {
         padding-top: 70px;
         padding-bottom: 50px;
     }
 
-    header .repo {
+    body .repo {
         padding-top:20px;
         font-size: 3.4em;
     }
 
-    header .donation {
+    body .donation {
         padding-top: 0px;
         font-size: 1em;
     }
 }
 
-header .donation {
+body .donation {
     display: block;
     padding-top:0px;
     font-family: "Karla", sans-serif;
@@ -66,7 +68,7 @@ header .donation {
 }
 
 
-header .btn{
+body .btn{
     padding-top:10px;
 }
 
@@ -96,53 +98,27 @@ footer .footer-above {
     padding-top: 30px;
     background-color: red;
 }
-.btn-social {
-    display: inline-block;
-    padding-top:2px;
-    height: 50px;
-    width: 50px;
-    border: 1.5px solid #a3c1d5;
-    border-radius: 100%;
-    text-align: center;
-    font-size: 20px;
-    line-height: 45px;
+
+
+body{
+    background: linear-gradient(
+        to right,#833ab4, #fd1d1d, #fcb045);
+        background-size: 400% 400%;
+        animation: animate-background 10s infinite ease-in-out;
+
+}
+@keyframes animate-background {
+    0%{
+        background-position: 0 50%;
+    }
+    50%{
+        background-position: 100% 50%;
+    }
+    100%{
+        background-position: 0 50%;
+    }
 }
 
 
 
 
-
-
-header .ytplus{
-    padding-top:10px;
-}
-
-.ytplus-outline {
-    color:#a3c1d5;
-    font-size: 1.2em;
-    border: solid 1.5px #a3c1d5;
-    background: black;
-    transition: all 0.3s ease-in-out;
-    margin-top: 50px;
-}
-
-.ytplus-outline:hover,
-.ytplus-outline:focus,
-.ytplus-outline:active,
-.ytplus-outline.active {
-    color: white;
-    background:#a3c1d5;
-    border: solid 1.5px white;
-}
-
-.ytplus-social {
-    display: inline-block;
-    padding-top:2px;
-    height: 50px;
-    width: 50px;
-    border: 1.5px solid #a3c1d5;
-    border-radius: 100%;
-    text-align: center;
-    font-size: 20px;
-    line-height: 45px;
-}
