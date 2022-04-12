@@ -119,7 +119,10 @@ footer .footer-above {
     padding-top: 30px;
     background-color: red;
 }
+img {
+    size: 100%;
+    
 
 
 
-
+}
